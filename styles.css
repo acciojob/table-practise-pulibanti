@@ -5,3 +5,11 @@ td,th{
 table{
 	background-color:yellow;
 }
+*{
+	font-size:34px;
+	text-align:center;
+}
+h3{
+	margin-bottom:0px;
+	
+}
